@@ -1,0 +1,15 @@
+{
+  "name": "Robe",
+  "description": "A real Robe",
+  "start_url": "robe.glb",
+  "components": [
+    {
+      "key": "wear",
+      "value": {
+        "boneAttachment": "chest",
+        "position": [0, 0, 0],
+        "quaternion": [0, 0, 0, 1]
+      }
+    }
+  ]
+}
